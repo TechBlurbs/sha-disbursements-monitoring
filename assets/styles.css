@@ -1,6 +1,6 @@
 :root{
   --bg: #08101f;
-  --panel-bg: #1e2020;
+  --panel-bg: #304040;
   --panel-darker: #10151c;
   --card: #171d26;
   --muted: #2b3340;
@@ -113,7 +113,7 @@ html, body, #root, .app {
   border: 1px solid var(--muted) !important;
 }
 .Select--multi .Select-value {
-  background: #203142 !important;
+  background: #102e4b !important;
   border: 1px solid #25445a !important;
   color: var(--text) !important;
 }
